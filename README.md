@@ -1,8 +1,26 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop. hiiiii
-hiii
-<br/>
-author- kartik singh
+M-modified
+U-untracked
+
+
+commands--
+
+1. git clone https://github.com/kartik428/desktop-tutorial.git
+
+2. git status
+
+3. ls
+
+4. git add filename
+
+5. git commit -m"some message"
+
+
+how to clone your reposatiory-
+git clone https://github.com/kartik428/desktop-tutorial.git    // copy paste http link from github.
+
+
+how to save changes--
+
